@@ -18,4 +18,5 @@ Vendors, retailers, shops, etc. whose products are crafted with humane labor and
 - http://www.patagonia.com
 
 #### Etc
+- http://www.tenthousandvillages.com/
 - http://etsy.com
