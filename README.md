@@ -13,3 +13,4 @@ Vendors, retailers, shops, etc. who's products are crafted with humane labor and
 
 #### Clothing
 - https://nisolo.com
+- https://zady.com
