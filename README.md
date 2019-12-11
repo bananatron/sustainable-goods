@@ -17,6 +17,7 @@ Vendors, retailers, shops, etc. whose products are crafted with humane labor and
 - https://zady.com
 - http://www.patagonia.com
 - https://www.tentree.com
+- https://www.veja-store.com
 
 #### Etc
 - http://www.tenthousandvillages.com/
